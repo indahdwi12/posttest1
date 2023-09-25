@@ -15,3 +15,5 @@ output dari pilihan 3 yaitu (output hasil kilogram ke gram) dengan proses "konve
 nilai kilogram * 1000
 contoh : 12 * 1000 = 12000
 maka nilai dari gram adalah 12000 jika di kalikan dengan nilai kilogram sebesar 12
+
+![alt text](?raw=true)
