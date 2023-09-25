@@ -16,4 +16,4 @@ nilai kilogram * 1000
 contoh : 12 * 1000 = 12000
 maka nilai dari gram adalah 12000 jika di kalikan dengan nilai kilogram sebesar 12
 
-![alt text](?raw=true)
+![alt text](https://github.com/indahdwi12/tugas_posttest1/blob/main/output%20konversi%20kilogram.png?raw=true)
