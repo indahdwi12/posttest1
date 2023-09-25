@@ -1,4 +1,4 @@
-![alt text](https://github.com/indahdwi12/tugas_posttest1/blob/main/flowchart_konversiKG.png?raw=true)
+![alt text](https://github.com/indahdwi12/tugas_posttest1/blob/main/tugas%20POSTEST1.drawio.png?raw=true)
 
 #penjelasan output
 output dari pilihan 1 yaitu (output hasil kilogram ke pounds) dengan proses "konversi kilogram ke pounds" adalah jika :
